@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Ikhwan Al Ghifari](img/github-header-banner.png)
+
 <!--
 **1khwannn/1khwannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
