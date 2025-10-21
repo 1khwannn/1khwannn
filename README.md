@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 ![Ikhwan Al Ghifari](img/github-header-banner.png)
 
