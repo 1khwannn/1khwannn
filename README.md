@@ -1,7 +1,6 @@
 ![Ikhwan Al Ghifari](img/github-header-banner.png)
 
 
-###
 
 <br clear="both">
 
