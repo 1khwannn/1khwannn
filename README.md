@@ -4,8 +4,7 @@
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=1khwannn&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=1khwannn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=false" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1khwannn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=blue-green&hide_border=false" alt="languages graph" /> <br>
+ <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1khwannn&theme=github-dark&radius=10&area=true&hide_border=false" alt="activity-graph graph"  />
 </div>
 
