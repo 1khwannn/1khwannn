@@ -1,4 +1,4 @@
-![Ikhwan Al Ghifari](img/github-header-banner.png)
+![🧑🏻‍💻 Ikhwan Al Ghifari](img/github-header-banner.png)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=1khwannn&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5" height="200" alt="streak graph" /> <br>
